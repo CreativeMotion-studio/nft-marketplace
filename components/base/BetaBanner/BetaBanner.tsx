@@ -12,7 +12,7 @@ const BetaBanner: React.FC = () => {
       <SText>
         <span>Welcome to the</span>
         <Chip color="primary500" size="small" text="Beta Version" />
-        <span>of SecretNFT. All the marketplace is in</span>
+        <span>of Blockchain Your Art. All the marketplace is in Ternoa</span>
         <SLink
           href="https://telemetry.polkadot.io/#list/0xd9adfc7ea82be63ba28088d62b96e9270ad2af25c962afc393361909670835b2"
           target="blank"
@@ -22,7 +22,7 @@ const BetaBanner: React.FC = () => {
       </SText>
       <Link href="/faq" passHref>
         <SButtonContainer>
-          <AnchorButton color="invertedContrast" href="/faq" size="small" text="More infos" variant="contained" />
+          <AnchorButton color="invertedContrast" href="/faq" size="small" text="More info" variant="contained" />
         </SButtonContainer>
       </Link>
     </SBannerContainer>

@@ -73,7 +73,7 @@ const LandingPage = ({
       <Head>
         <title>{name} - Welcome</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta name="description" content="SecretNFT Marketplace, by Ternoa." />
+        <meta name="description" content="BlockchainYourArt Marketplace, by Creative Motion and Ternoa." />
         <meta name="og:image" content="ternoa-social-banner.jpg" />
         <meta property="og:image" content="ternoa-social-banner.jpg" />
       </Head>

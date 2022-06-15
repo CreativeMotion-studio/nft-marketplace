@@ -5,10 +5,10 @@ import { MP_SET_LOGO, MP_SET_NAME, MP_SET_INSTAGRAM_URL, MP_SET_TWITTER_URL, MP_
 
 export const mpDefaultState = {
   logo: null,
-  name: 'SecretNFT',
-  instagramUrl: 'https://twitter.com/SecretNFT_',
-  twitterUrl: 'https://www.instagram.com/ternoa_/',
-  url: 'https://secret-nft.com',
+  name: 'BlockchainYourArt',
+  twitterUrl: 'https://twitter.com/Creativ_eMotion',
+  instagramUrl: 'https://www.instagram.com/creativemotion.studio/',
+  url: 'https://marketplace.blockchainyourart.io',
 }
 
 // Disclaimer: The actions below aimed to be used on getInitialProps server side rendering
